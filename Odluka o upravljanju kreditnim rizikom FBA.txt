@@ -1,0 +1,1154 @@
+1
+Na osnovu čl. 5. stav (1) tačka h) i 19. stav (1) tačka c) Zakona o Agenciji za bankarstvo
+Federacije Bosne i Hercegovine ("Službene novine Federacije BiH", broj: 75/17), člana 12. stav
+(1) tačka d) Statuta Agencije za bankarstvo Federacije Bosne i Hercegovine (“Službene novine
+Federacije BiH“, broj: 3/18) i čl. 80. stav (5) i 81. stav (14) Zakona o bankama ("Službene novine
+Federacije BiH", broj: 27/17), Upravni odbor Agencije za bankarstvo Federacije Bosne i
+Hercegovine, na sjednici održanoj 20.06.2019. godine, d o n o s i
+O D L U K U
+O UPRAVLJANJU KREDITNIM RIZIKOM I
+UTVRĐIVANJU OČEKIVANIH KREDITNIH GUBITAKA
+1. Opće odredbe
+Član 1.
+Predmet odluke
+(1) Ovom odlukom propisuju se:
+a) pravila za upravlјanje kreditnim rizikom,
+b) način raspoređivanja izloženosti u nivoe kreditnog rizika i utvrđivanje očekivanih
+kreditnih gubitaka,
+c) prihvatljiv kolateral za potrebe utvrđivanja očekivanih kreditnih gubitaka,
+d) prihvatljiv kolateral za potrebe ograničenja najveće dopuštene izloženosti u odnosu na
+priznati kapital,
+e) tretman materijalne aktive stečene u postupku naplate potraživanja,
+f) način izvještavanja Agencije za bankarstvo Federacije Bosne i Hercegovine (u dalјem
+tekstu: Agencija).
+(2) Ovom odlukom propisuju se minimalni zahtjevi, a banka može primijeniti strože zahtjeve.
+(3) Odredbe ove odluke primjenjuju se na banke sa sjedištem u Federaciji Bosne i Hercegovine
+koje su od Agencije dobile dozvolu za rad.
+(4) Banka je dužna primjenjivati odredbe ove odluke na pojedinačnoj i konsolidovanoj osnovi.
+(5) Uputstvom za klasifikaciju i vrednovanje finansijske aktive (u daljem tekstu: Uputstvo)
+detaljnije se definiraju i pojedine odredbe ove odluke, s cilјem osiguranja jedinstvenog
+računovodstvenog i regulatornog tretmana finansijske aktive.
+(6) Na pitanja vezana za upravlјanje kreditnim rizikom u bankama koja nisu definirana ovom
+odlukom, a definirana su Zakonom o bankama ili drugim podzakonskim propisima,
+primjenjivat će se odredbe tog zakona ili drugog podzakonskog propisa.
+Član 2.
+Pojmovi
+(1) Pojmovi koji se koriste u ovoj odluci imaju slјedeća značenja:
+a) Izloženost je bruto knjigovodstvena vrijednost stavke bilansne i vanbilansne aktive.
+b) Nekvalitetna izloženost je:
+1) izloženost u statusu neizmirenja obaveza, odnosno izloženost koja je raspoređena u
+nivo kreditnog rizika 3 iz člana 20. ove odluke i
+2) izloženost koja se vrednuje po fer vrijednosti kroz račun dobiti ili gubitka, a ispunjava
+uslov za raspoređivanje u nivo kreditnog rizika 3.
+c) Nekvalitetni kredit je:
+1) kredit u statusu neizmirenja obaveza, odnosno kredit koji je raspoređen u nivo
+kreditnog rizika 3 iz člana 20. ove odluke i
+2
+2) kredit koji se vrednuje po fer vrijednosti kroz račun dobiti ili gubitka, a ispunjava
+uslov za raspoređivanje u nivo kreditnog rizika 3.
+d) Očekivani kreditni gubitak (ECL) jeste ispravka vrijednosti bilansne izloženosti i
+rezervisanja za pokriće očekivanih kreditnih gubitaka za vanbilansne izloženosti koje
+banka knjigovodstveno evidentira kroz račun dobiti ili gubitka, a utvrđuje se u skladu sa
+odredbama ove odluke i Uputstva.
+e) Vanjska institucija za procjenu kreditnog rejtinga (ECAI) ima isto značenje kao u
+Odluci o izračunavanju kapitala banke.
+f) Računovodstveni otpis jeste prijenos bilansne izloženosti u vanbilansnu evidenciju, pri
+čemu banka zadržava pravo na dalјe poduzimanje mjera za naplatu potraživanja od
+dužnika.
+g) Trajni otpis jeste otpis bilansne izloženosti koji dovodi do prestanka priznavanja cijele
+izloženosti ili njenog dijela u poslovnim knjigama banke (bilansnoj i vanbilansnoj
+evidenciji).
+h) Modifikacija izloženosti je postupak kojim se mijenjaju uslovi originalnog ugovora te
+izloženosti, pri čemu modifikacija može biti:
+1) uzrokovana tekućim potrebama dužnika (npr. smanjenje efektivne kamatne stope
+zbog promjena na tržištu, zamjena kolaterala i sl.), a ne finansijskim poteškoćama
+dužnika,
+2) uzrokovana trenutnim finansijskim poteškoćama dužnika ili poteškoćama koje će
+uskoro nastati, odnosno pogoršanjem njegove kreditne sposobnosti, urednosti u
+izmirivanju obaveza prema banci ili drugim povjeriocima (u dalјem tekstu za ovu
+vrstu modifikacije koristi se pojam: restrukturirana izloženost).
+i) Prihvatlјiv kolateral jeste kolateral koji banka može uzeti u obzir prilikom procjene
+budućih novčanih tokova za potrebe utvrđivanja očekivanih kreditnih gubitaka, a koji
+mora ispuniti sve uslove u vezi sa kolateralom navedene u ovoj odluci.
+j) Korektivni faktor (engl. haircut) jeste faktor kojim se banka koristi za prilagođavanje
+vrijednosti procijenjenih budućih novčanih tokova iz prihvatlјivog kolaterala u odnosu
+na tržišnu vrijednost kolaterala, uzimajući u obzir odgovarajući interno procijenjeni rok
+naplate, te za izračunavanje iznosa izloženosti osiguranog prihvatlјivim kolateralom za
+potrebe primjene člana 25. st. (1) i (2) ove odluke.
+k) Nezavisni procjenitelj je lice zaposleno u banci ili angažovano od strane banke koje
+posjeduje potrebne stručne kvalifikacije, tehničke sposobnosti, iskustvo i odgovarajuće
+ovlaštenje (licencu, rješenje i sl.) potrebno za utvrđivanje vrijednosti nekretnine ili
+pokretne imovine, te dobro poznaje tržište nekretnina i pokretne imovine.
+Nezavisni procjenitelj ili član njegove uže porodice ne smije:
+1) biti uključen u postupak odobravanja izloženosti ili u posredovanje, prodaju ili
+iznajmljivanje nekretnine ili pokretne imovine,
+2) imati pravni ili poslovni odnos sa dužnikom, osim posla procjene,
+3) biti povezano lice sa kupcem ili prodavaocem pokretne imovine ili nekretnina,
+4) imati vlastite interese s obzirom na rezultate konačnog izvještaja kojim se utvrđuje
+tržišna vrijednost nekretnine ili pokretne imovine, osim naknade za izvršavanje
+procjene.
+Visina naknade koju prima nezavisni procjenitelј ne smije zavisiti od rezultata procjene,
+a nezavisni procjenitelj dužan je da sačini jasan, transparentan i objektivan izvještaj o
+procjeni vrijednosti nekretnine ili pokretne imovine, u skladu sa pravilima i standardima
+struke.
+l) Kamatno inducirani kreditni rizik jeste rizik gubitka kojem je dodatno izložena banka
+koja preuzima kreditni rizik iz izloženosti vezanih za promjenljivu kamatnu stopu.
+3
+m) Materijalno značajan iznos za potrebe utvrđivanja broja dana kašnjenja ima isto
+značenje kao u Odluci o izračunavanju kapitala banke.
+n) Utvrđivanje broja dana kašnjenja ima isto značenje kao u Odluci o izračunavanju
+kapitala banke.
+(2) Pojmovi koji nisu definirani ovim članom, a koriste se u ovoj odluci, imaju značenje u skladu
+sa zakonskim propisima i drugim podzakonskim propisima.
+2. Pravila za upravlјanje kreditnim rizikom
+Član 3.
+Pravila za upravlјanje kreditnim rizikom
+(1) Pored propisanih općih i posebnih standarda za upravljanje rizicima, a koji se odnose na
+uspostavljanje i primjenu sistema internog upravljanja u bankama, banka je dužna ispuniti
+zahtjeve u vezi sa posebnim pravilima za upravlјanje kreditnim rizikom koji su propisani čl.
+4-16. ove odluke.
+(2) Banka je dužna osigurati da se godišnjim planom rada interne revizije obuhvati pregled
+poštovanja pravila za upravljanje kreditnim rizikom iz stava (1) ovog člana.
+Član 4.
+Interni akti banke
+(1) Banka je dužna donijeti i provoditi adekvatne strategije, te politike i procedure za upravlјanje
+kreditnim rizikom u kojima su jasno i detalјno utvrđene nadležnosti i odgovornosti nadležnih
+tijela i zaposlenih u banci.
+(2) Banka je dužna upravljati kreditnim rizikom na nivou pojedinačnih izloženosti i na nivou
+cijelog portfolija banke, odnosno uspostaviti i provoditi adekvatan i efikasan sistem stalnog
+praćenja pojedinačnih izloženosti koje nose kreditni rizik i cijelog portfolija, te osigurati da
+nivo, struktura i kvalitet njenog portfolija bude usklađen sa usvojenim strategijama i
+politikama za upravlјanje kreditnim rizikom.
+(3) Banka je dužna donijeti interne metodologije kojima će definirati način klasifikacije i
+vrednovanja izloženosti, njihovog raspoređivanja u nivoe kreditnog rizika i utvrđivanja
+očekivanih kreditnih gubitaka, koje su usklađene sa zahtjevima propisanim ovom odlukom i
+Uputstvom.
+(4) Metodologije iz stava (3) ovog člana usvaja nadzorni odbor banke, a uprava banke dužna je
+osigurati konzistentnu primjenu usvojenih metodologija, adekvatno praćenje i efikasan
+sistem internih kontrola primjene istih, uspostaviti odgovarajući sistem izvještavanja, te po
+potrebi predlaže njihove izmjene.
+(5) Funkcija interne revizije banke redovno ocjenjuje adekvatnost svih elemenata uspostavljenih
+metodologija i postupaka banke za klasifikaciju i vrednovanje izloženosti, uključujući ocjenu
+adekvatnosti sistema internih kontrola unutar tih postupaka, te daje preporuke za otklanjanje
+utvrđenih slabosti i nedostataka.
+Član 5.
+Organizacioni zahtjevi
+(1) Banka je dužna osigurati jasnu operativnu i organizacionu razdvojenost funkcije ugovaranja
+transakcija od funkcije podrške i upravlјanja rizicima, uklјučujući i upravlјačke i rukovodne
+nivoe.
+(2) Banka je dužna uspostaviti jasnu i doslјednu organizacionu strukturu koja osigurava
+utvrđivanje:
+a) kriterija i procedura za odobravanje novih izloženosti ili modifikaciju postojećih
+izloženosti,
+4
+b) pravila odobravanja izloženosti na nivou pojedinačnih dužnika i na nivou grupe
+povezanih lica,
+c) nadležnosti nadzornog odbora i uprave, kao i odbora koje oni imenuju, te ovlaštenja
+pojedinih rukovodnih nivoa za odobravanje izloženosti riziku.
+(3) Banka je dužna da u skladu sa interno propisanim nivoima kompetencija, sa aspekta
+izloženosti kreditnom riziku, osigura mišlјenje lica zaduženog za procjenu kreditnog rizika
+u banci.
+(4) Banka je dužna utvrditi pravila i odgovornosti za odobravanje izloženosti, u izuzetnim
+slučajevima, kada se lice koje je zaduženo za ugovaranje transakcija i lice zaduženo za
+procjenu kreditnog rizika u banci ne mogu usaglasiti oko odobrenja izloženosti.
+(5) Izuzetno, ako banka odobrava izloženosti za koje nije potrebno mišljenje lice zaduženog za
+procjenu kreditnog rizika u banci iz stava (3) ovog člana, odluke o odobravanju izloženosti
+mogu se donositi u okviru funkcije ugovaranja transakcija. U tom slučaju banka je dužna
+propisati kriterije za utvrđivanje izloženosti za koje nije potrebno mišljenje lica zaduženog
+za procjenu kreditnog rizika u banci, pravila odobravanja tih izloženosti, koja omogućavaju
+njihovo grupisanje prema sličnim karakteristikama, i pravila njihovog praćenja na grupnoj
+osnovi, koje se mora obavlјati u okviru funkcije upravlјanja rizicima.
+(6) Banka ne može u okviru funkcije ugovaranja transakcija utvrđivati i knjigovodstveno
+evidentirati očekivane kreditne gubitke.
+Član 6.
+Kreditni proces
+Banka je dužna usvojiti adekvatne politike i procedure i uspostaviti odgovarajući kreditni proces
+koji minimalno obuhvata:
+a) odobravanje izloženosti,
+b) praćenje rizičnosti izloženosti,
+c) analizu izloženosti kreditnom riziku,
+d) sistem ranog upozorenja na povećanje kreditnog rizika,
+e) postupanje sa nekvalitetnim izloženostima,
+f) postupanje sa restrukturiranim izloženostima,
+g) raspoređivanje izloženosti u nivoe kreditnog rizika,
+h) sadržaj i vođenje kreditnog dosjea.
+Član 7.
+Odobravanje izloženosti
+(1) Banka je prije odobravanja kreditne izloženosti, te svakog povećanja kreditne izloženosti dužna
+da na sveobuhvatan i adekvatan način procijeni kreditnu sposobnost dužnika, a uzimajući u obzir
+interno propisane kriterije i zahtjeve ove odluke. Banka je dužna da najmanje jednom godišnje
+razmatra propisane kriterije, te ih po potrebi prilagođava s cilјem unapređenja postupaka
+procjene kreditne sposobnosti dužnika.
+(2) Banka je prije odobravanja kreditne izloženosti dužna procijeniti kvalitet, utrživost, raspoloživost
+i vrijednost, te pravnu valјanost kolaterala. Ako vrijednost kolaterala u velikoj mjeri zavisi od
+kreditne sposobnosti davaoca kolaterala koji je treća strana, banka je dužna procijeniti i njegovu
+kreditnu sposobnost.
+(3) Banka je dužna uspostaviti pouzdan proces za procjenu mogućnosti dužnika da ispuni svoje
+obaveze prema ugovorenim uslovima i provjeravati taj proces u redovnim intervalima.
+(4) Banka je prilikom analize naplativosti izloženosti dužna prvo uzeti u obzir kreditnu sposobnost
+dužnika, a primlјeni kolateral za tu izloženost smatrati isklјučivo sekundarnim izvorom naplate.
+(5) Banka je dužna donijeti politiku, kojom će definirati vrste kolaterala koje prihvata kao osiguranje
+za izloženost i metodologiju procjene vrijednosti kolaterala.
+5
+(6) Banka u skladu sa stavom (1) ovog člana internim aktima detaljno propisuje kriterije koje uzima
+u obzir prilikom procjene kreditne sposobnosti dužnika, način vršenja procjene i utvrđivanja
+činjenica relevantnih za procjenu, a pri tome je dužna da obuhvati najmanje slјedeće kriterije:
+a) za pravna lica:
+1) utvrđivanje cilјa, odnosno namjene izloženosti,
+2) dužnikove novčane tokove ostvarene u proteklom periodu i procijenjene buduće
+novčane tokove u odnosu na njegove obaveze,
+3) stručnost uprave i rukovodstva, kvalitet planova i programa za čiju realizaciju banka
+pruža finansijsku podršku,
+4) karakter, poštenje i reputaciju dužnika, odnosno korektnost njegovih namjera i
+ponašanje u poslovnim aktivnostima i prema banci, pri čemu bitne faktore čine
+dostupne informacije o urednosti u izmirivanju obaveza prema banci, drugim
+bankama, ostalih obaveza prema drugim povjeriocima, o finansijskim prekršajima i
+sl.,
+5) dužnikovu likvidnost i profitabilnost,
+6) nivo kapitala i rezervi kojima dužnik raspolaže i njihov udio u bilansnoj sumi, te
+kvalitet aktive dužnika,
+7) imovinsku snagu dužnika,
+8) stepen zaduženosti dužnika, uklјučujući nivo i ročnost obaveza dužnika, te analizu
+datih jemstava,
+9) uslove pod kojima dužnik posluje i perspektivu dužnika, te njegov položaj na tržištu,
+kao i položaj cijele grane djelatnosti kojom se dužnik bavi,
+10) dužnikovu izloženost valutno induciranim kreditnim rizikom po osnovu potraživanja
+banke sa valutnom klauzulom, potraživanja u stranoj valuti, uklјučujući i dužnikove
+vanbilansne obaveze s valutnom klauzulom i vanbilansne obaveze u stranoj valuti i
+kamatno induciranim kreditnim rizikom po osnovu potraživanja ugovorenih sa
+promjenljivom kamatnom stopom. Pri tome banka treba da procjenjuje kreditni rizik
+i sa aspekta moguće promjene finansijskog položaja dužnika zbog promjene kursa
+konvertibilne marke i valute u kojoj je izloženost ili kamatne stope, odnosno da
+procijeni sposobnost dužnika da u slučaju potencijalne promjene tog kursa ili
+kamatne stope izmiruje obaveze prema banci u skladu sa ugovorenim uslovima.
+Banka posebnu pažnju posvećuje izloženostima sa valutnom klauzulom u stranoj
+valuti u slučajevima kada dužnik nema izvore prihoda u istoj valuti u kojoj je
+izloženost. Banka nije u obavezi da procjenjuje valutno inducirani kreditni rizik za
+izloženosti sa valutnom klauzulom u EUR-u, imajući u vidu postojanje valutnog
+odbora u Bosni i Hercegovini.
+b) za fizička lica:
+1) utvrđivanje cilјa, odnosno namjene kreditne izloženosti,
+2) dužnikove novčane tokove ostvarene u proteklom periodu i procijenjene buduće
+novčane tokove u odnosu na njegove obaveze,
+3) imovinsku snagu dužnika,
+4) stepen zaduženosti dužnika, te analizu datih jemstava,
+5) karakter, poštenje i reputaciju dužnika, odnosno korektnost njegovih namjera i
+ponašanje prema banci, pri čemu banka treba da poduzme sve razumne mjere da,
+pored podataka o otplati kreditnih obaveza, prikupi i relevantne podatke o urednosti
+otplate ostalih obaveza i procijeni utjecaj na buduće novčane tokove dužnika u slučaju
+postojanja značajnih neizmirenih obaveza,
+6) dužnikovu izloženost valutno induciranim kreditnim rizikom po osnovu potraživanja
+banke sa valutnom klauzulom, potraživanja u stranoj valuti, uklјučujući i dužnikove
+vanbilansne obaveze s valutnom klauzulom i vanbilansne obaveze u stranoj valuti i
+6
+kamatno induciranim kreditnim rizikom po osnovu potraživanja ugovorenih sa
+promjenljivom kamatnom stopom. Pri tome banka treba da procjenjuje kreditni rizik
+i sa aspekta moguće promjene finansijskog položaja dužnika zbog promjene kursa
+konvertibilne marke i valute u kojoj je izloženost ili kamatne stope, odnosno da
+procijeni sposobnost dužnika da u slučaju potencijalne promjene tog kursa ili
+kamatne stope izmiruje obaveze prema banci u skladu sa ugovorenim uslovima.
+Banka posebnu pažnju posvećuje izloženostima sa valutnom klauzulom u stranoj
+valuti u slučajevima kada dužnik nema izvore prihoda u istoj valuti u kojoj je
+izloženost. Banka nije u obavezi da procjenjuje valutno inducirani kreditni rizik za
+izloženosti sa valutnom klauzulom u EUR-u, imajući u vidu postojanje valutnog
+odbora u Bosni i Hercegovini.
+(7) Dodatno, procjenu kreditne sposobnosti dužnika koji je osnovan u prethodne dvije godine od
+dana kada se vrši procjena (novoosnovana privredna društva), kao i dužnika koji je osnovan s
+posebnom namjenom, odnosno za realizaciju unaprijed utvrđenog projekta (projektno
+finansiranje), banka vrši na osnovu procjene mogućnosti tog dužnika da ostvari adekvatne
+novčane tokove koji osiguravaju blagovremeno izmirivanje obaveza po ugovorenoj dinamici
+otplate potraživanja. Prilikom vršenja te procjene banka uzima u obzir najmanje:
+a) procjenu budućih novčanih tokova tog ulaganja (poslovni plan, finansijske projekcije,
+ocjenu perioda vraćanja ulaganja, analizu osjetljivosti projekta na rizike i sl.) u slučaju
+novoosnovanih privrednih društava,
+b) procjenu budućih novčanih tokova projekta (poslovni plan, finansijske projekcije, ocjenu
+perioda vraćanja ulaganja, analizu osjetljivosti projekta na rizike i sl.), kao i
+kontinuiranog praćenja realizacije tog projekta u slučaju projektnog finansiranja,
+c) dostupne finansijske izvještaje.
+(8) Obaveza provođenja procjene kreditne sposobnosti odnosi se na sve učesnike u ugovornom
+odnosu, tj. banka vrši i procjenu kreditne sposobnostisudužnika, jemca ili davaoca garancije kao
+i grupe povezanih lica (kada je to primjenjivo), te davaoca kolaterala samo u slučajevima iz stava
+(2) ovog člana.
+(9) Banka je dužna da donosi odluke o odobravanju kreditnih izloženosti na osnovu primjerenih i
+jasno definiranih kriterija, te da definira postupke odlučivanja o odobravanju i modifikaciji
+izloženosti.
+Član 8.
+Praćenje rizičnosti izloženosti
+(1) Praćenje pojedinačnih izloženosti uklјučuje procjenjivanje kreditne sposobnosti dužnika, grupe
+povezanih lica sa dužnikom i kvaliteta, utrživosti, raspoloživosti, vrijednosti, te pravne valјanosti
+kolaterala tokom trajanja ugovornog odnosa na kojem je zasnovana predmetna izloženost.
+(2) Banka je dužna da prati ispunjavanje uslova iz ugovora od strane dužnika, a u slučaju namjenskih
+izloženosti i praćenje korištenja plasiranih sredstava u skladu sa odobrenom/ugovorenom
+namjenom.
+(3) Banka je dužna da uspostavi praćenje pojedinačnih izloženosti tako da omogućava
+pravovremeno poduzimanje odgovarajućih mjera s cilјem smanjenja kreditnog rizika u slučaju
+pogoršanja kreditne sposobnosti dužnika ili davaoca kolaterala ako vrijednost kolaterala u velikoj
+mjeri zavisi od kreditne sposobnosti davaoca kolaterala koji je treća strana.
+(4) Banka je dužna usvojiti procedure kojima se utvrđuje prikuplјanje i praćenje svih relevantnih
+informacija koje mogu upućivati na povećanje rizičnosti izloženosti i promjenu vrijednosti
+kolaterala, kao i procedure izvještavanja o tim informacijama svih ovlaštenih zaposlenih
+uklјučenih u proces upravlјanja kreditnim rizikom, kako bi se blagovremeno i adekvatno vršila
+procjena rizičnosti izloženosti.
+(5) Banka je dužna minimalno jednom godišnje prikupiti zvanične finansijske izvještaje dužnika 
+7
+predane u nadležni registar, te uraditi analizu finansijskog položaja u cilju uočavanja pogoršanja
+koji zahtijevaju poduzimanje mjera od strane banke. Prilikom navedene analize, banka treba da
+prikupi i analizira izvještaje nezavisnog revizora na finansijske izvještaje dužnika, kod dužnika
+koji vrše reviziju finansijskih izvještaja i kod dužnika koji su obavezni da vrše reviziju
+finansijskih izvještaja u skladu sa odredbama Zakona o računovodstvu i reviziji Federacije Bosne
+i Hercegovine i Zakona o računovodstvu i reviziji Republike Srpske.
+Član 9.
+Analiza izloženosti kreditnom riziku
+(1) Banka je dužna uspostaviti sistem za kontinuiranu analizu strukture, kvaliteta i trendova
+kreditnog portfolija, uklјučujući i analizu rizika koji proizlaze iz koncentracija prisutnih u
+kreditnom portfoliju. Navedene analize banka je dužna uzeti u obzir prilikom definiranja
+strategija i politika za preuzimanje kreditnog rizika i upravlјanje kreditnim rizikom.
+(2) Praćenje i analiza kreditnog portfolija moraju biti uspostavlјeni tako da omogućuju
+pravovremeno poduzimanje odgovarajućih mjera s cilјem smanjenja kreditnog rizika.
+Član 10.
+Sistem ranog upozorenja na povećanje kreditnog rizika
+(1) Banka je dužna uspostaviti sistem ranog upozorenja koji omogućava pravovremenu
+identifikaciju dužnika kod kojih je prisutan povećani kreditni rizik i voditi evidenciju o tim
+izloženostima, odnosno isti moraju biti uvršteni na listu dužnika koje je potrebno posebno
+pratiti od strane banke (engl. watch list).
+(2) Banka je dužna definirati odgovarajuće kvalitativne i kvantitativne pokazatelјe za rano
+otkrivanje povećanog kreditnog rizika.
+(3) Sistem ranog upozorenja zasniva se na internim (npr. interni kreditni rejting) ili eksternim
+indikatorima (npr. kreditni rejtinzi vanjskih institucija za procjenu kreditnog rejtinga,
+istraživanja određenih sektora, makroekonomski indikatori za određene geografske oblasti i
+sl.), a treba omogućiti prepoznavanje pogoršanja kreditnog kvaliteta izloženosti u najranijem
+trenutku, kako na pojedinačnoj tako i na grupnoj osnovi, za izloženosti sa sličnim
+karakteristikama.
+(4) Banka je dužna da na listu iz stava (1) ovog člana uvrsti i nove dužnike banke, za koje je
+prilikom procjene kreditne sposobnosti utvrđeno da su u drugoj banci raspoređeni u viši nivo
+kreditnog rizika.
+Član 11.
+Postupanje sa nekvalitetnim izloženostima
+(1) Banka je dužna uspostaviti adekvatan okvir za postupanje sa nekvalitetnim izloženostima,
+koji uključuje:
+a) način utvrđivanja, mjerenja, praćenja i nadziranja nekvalitetnih izloženosti, kao i mjere
+za izbjegavanje nastanka takvih izloženosti,
+b) donošenje strategije za postupanje sa nekvalitetnim izloženostima u kratkoročnom (do
+jedne godine), srednjoročnom (od jedne do tri godine) i dugoročnom periodu (periodu
+dužem od tri godine), uklјučujući i cilјane nivoe nekvalitetnih izloženosti,
+c) operativne godišnje planove za postupanje sa nekvalitetnim izloženostima, uklјučujući
+izloženosti u postupku prisilne naplate,
+d) implementaciju operativnog plana postupanja sa nekvalitetnim izloženostima,
+e) potpunu integriranost strategije postupanja sa nekvalitetnim izloženostima u upravlјačke
+procese banke, uklјučujući redovno praćenje i nezavisan nadzor nad ovim postupcima.
+(2) Banka je dužna analizirati utjecaj nekvalitetnih izloženosti na regulatorni kapital,
+profitabilnost, likvidnost i ostale pokazatelјe poslovanja banke. 
+8
+(3) Banka je prilikom određivanja strateških cilјeva iz stava (1) tačka b) ovog člana dužna uzeti
+u obzir:
+a) strategiju praćenja i restrukturiranja nekvalitetnih izloženosti,
+b) strategiju aktivnog smanjenja nekvalitetnih izloženosti,
+c) promjenu vrste izloženosti ili zamjenu duga za kapital,
+d) različite pravne mogućnosti kao što su stečaj ili vansudska nagodba.
+(4) Banka je dužna uspostaviti stalnu i efikasnu funkciju odgovornu za praćenje i postupanje sa
+nekvalitetnim izloženostima, koja je nezavisna i odvojena od funkcije ugovaranja
+transakcija.
+(5) U svojim internim aktima u vezi s postupanjem sa nekvalitetnim izloženostima banka je
+dužna:
+a) propisati politike, metode i učestalost vrednovanja kolaterala u obliku nekretnina i
+pokretne imovine, nadzor i kontrolu nad tim vrednovanjem, kao i kriterije za nezavisne
+procjenitelјe kolaterala,
+b) propisati kriterije, postupak i nivoe odlučivanja za poduzimanje odgovarajućih pravnih
+radnji potrebnih za aktiviranje i realizaciju kolaterala,
+c) propisati kriterije, postupak i nivoe odlučivanja za računovodstveni otpis izloženosti u
+statusu neizmirenja obaveza, pri čemu je dužna da:
+1) izvrši računovodstveni otpis bilansne izloženosti dvije godine nakon što je banka
+knjigovodstveno evidentirala očekivane kreditne gubitke u visini od 100% bruto
+knjigovodstvene vrijednosti te izloženosti i istu proglasila u potpunosti dospjelom,
+osim izloženosti po osnovu finansijskog lizinga,
+2) vodi detalјnu evidenciju o izloženostima za koje je izvršila računovodstveni otpis i
+svim aktivnostima koje poduzima sa cilјem naplate potraživanja, koja je dostupna za
+potrebe internih i eksternih kontrola, odnosno nadzora banke.
+d) propisati kriterije, postupak i nivoe odlučivanja za trajni otpis izloženosti,
+e) uzeti u obzir propise koji se odnose na zaštitu potrošača.
+(6) Banka čiji je udio nekvalitetnih kredita u ukupnim kreditima veći od 5% tri mjeseca u
+kontinuitetu, dužna je Agenciji dostaviti:
+a) strategiju postupanja sa nekvalitetnim izloženostima, kao i njene izmjene i dopune, u roku
+od sedam dana od dana usvajanja od strane nadzornog odbora,
+b) operativne planove do 28. februara u godini za koju se donose operativni planovi, izuzev
+prvog operativnog plana koji banka dostavlja mjesec dana nakon ispunjavanja uslova iz
+stava (6) ovog člana i koji izrađuje za period od momenta ispunjavanja uslova do 31.
+decembra te finansijske godine,
+c) izvještaje o realizaciji operativnih planova iz tačke b) ovog stava na kvartalnoj osnovi, u
+roku od 30 dana od isteka kvartala na koji se izvještaj odnosi.
+(7) Ukoliko Agencija utvrdi da postoje značajne razlike između realiziranih aktivnosti i
+aktivnosti utvrđenih operativnim planom, Agencija može naložiti banci da poduzme dodatne
+organizacione ili druge mjere neophodne za pobolјšanje upravlјanja kreditnim rizikom koji
+proizlazi iz portfolija nekvalitetnih izloženosti.
+Član 12.
+Postupanje sa restrukturiranim izloženostima
+(1) Banka je dužna usvojiti i provoditi politike postupanja sa restrukturiranim izloženostima,
+koje najmanje obuhvataju slјedeće:
+a) postupak i procedure za odobravanje mjera restrukturiranja, način donošenja odluka o
+mjerama restrukturiranja, uklјučujući lica i funkcije uklјučene u taj postupak, pri čemu
+je dužna uzeti u obzir mjere kojima bi se omogućila održiva otplata dugovanja i izbjegli
+slučajevi prisilne naplate, 
+9
+b) korištenje specifičnih kratkoročnih i dugoročnih mjera restrukturiranja zavisno od
+razloga zbog kojih su izloženosti raspoređene u nivo kreditnog rizika 2 ili 3,
+c) opis dostupnih mjera restrukturiranja,
+d) informacije koje se uzimaju u obzir prilikom odlučivanja o opravdanosti mjera
+restrukturiranja, postupak i procedure za praćenje i nadzor mjera restrukturiranja.
+(2) Na osnovu rezultata uspješnosti provedenih mjera restrukturiranja banka je dužna redovno
+ažurirati politike postupanja s restrukturiranim izloženostima.
+(3) Prije donošenja odluke o restrukturiranju banka je dužna procijeniti ekonomsku opravdanost
+restrukturiranja izloženosti prema pojedinom dužniku ili grupi povezanih lica. Ako je
+restrukturiranje kreditnih izloženosti ekonomski opravdano, banka je dužna utvrditi
+odgovarajući plan restrukturiranja, te pratiti njegovo provođenje i efekte.
+(4) Prilikom utvrđivanja održivosti restrukturiranja izloženosti pojedinog dužnika ili grupe
+povezanih lica banka je dužna imati:
+a) detalјnu analizu razloga koji su doveli do poteškoća u poslovanju dužnika ili, ako je
+primjenjivo, grupe povezanih lica,
+b) plan operativnog, finansijskog i vlasničkog restrukturiranja dužnika, ako je primjenjivo,
+i
+c) projekciju novčanih tokova za period koji je definiran planom restrukturiranja.
+(5) Na osnovu informacija iz stava (4) ovog člana banka je dužna izraditi:
+a) procjenu ostvarivosti plana operativnog, finansijskog i vlasničkog restrukturiranja
+dužnika, ako je primjenjivo,
+b) analizu mogućih metoda restrukturiranja izloženosti i argumentaciju izabrane metode,
+c) novi otplatni plan, koji će biti osnov za praćenje provođenja plana restrukturiranja
+izloženosti.
+(6) Prije odobrenja bilo koje mjere restrukturiranja banka je dužna provesti procjenu kreditne
+sposobnosti dužnika ili, ako je primjenjivo, grupe povezanih lica.
+(7) Nakon odobrenja mjera restrukturiranja banka je dužna kontinuirano pratiti provođenje
+cjelokupnog plana restrukturiranja i novčanih tokova dužnika (i, ako je primjenjivo, grupe
+povezanih lica), ako je izloženost banke pojedinačno značajna s aspekta izloženosti kreditnog
+rizika u skladu sa Uputstvom u zavisnosti od visine neto aktive banke, i to najmanje na
+tromjesečnoj osnovi ako je izloženost raspoređena u nivo kreditnog rizika 3 i najmanje na
+polugodišnjoj osnovi ako je izloženost raspoređena u nivo kreditnog rizika 2.
+Član 13.
+Proces raspoređivanja izloženosti u nivoe kreditnog rizika
+Banka je dužna uspostaviti odgovarajući proces za raspoređivanje izloženosti u nivoe kreditnog
+rizika i za utvrđivanje očekivanih kreditnih gubitaka u skladu sa odredbama ove odluke i
+Uputstva.
+Član 14.
+Sadržaj i vođenje kreditnog dosjea
+(1) Banka je dužna donijeti i provoditi proceduru za vođenje evidencije o izloženostima i odrediti
+funkcije odgovorne za potpunost i cjelovitost pojedinačnih kreditnih dosjea.
+(2) Način vođenja i minimalni sadržaj kreditnog dosjea propisani su odlukom kojom se reguliše
+dokumentovanost kreditnih aktivnosti banke.
+10
+Član 15.
+Valutno inducirani kreditni rizik i kamatno inducirani kreditni rizik
+(1) Banka je dužna da u sistem upravlјanja kreditnim rizikom uklјuči i upravlјanje:
+a) valutno induciranim kreditnim rizikom i
+b) kamatno induciranim kreditnim rizikom.
+(2) U okviru procesa odobravanja izloženosti u stranoj valuti ili sa valutnom klauzulom i/ili
+kreditnih izloženosti sa promjenljivom kamatnom stopom banka je dužna da definira kriterije
+za procjenu kreditne sposobnosti dužnika. Kriteriji najmanje uklјučuju procjenu značajnog
+porasta iznosa otplate duga u slučaju značajnih negativnih oscilacija odnosnih promjenljivih
+parametara.
+(3) Banka je dužna da rezultate procjene iz stava (2) ovog člana uzme u obzir prilikom
+utvrđivanja kreditne sposobnosti dužnika.
+(4) Banka je dužna osigurati da sistem upravlјanja iz stava (1) ovog člana omogućuje najmanje:
+a) utvrđivanje dužnika koji su izloženi rizicima iz stava (1) ovog člana,
+b) utvrđivanje očekivanih kreditnih gubitaka za izloženosti podložne rizicima iz stava (1)
+ovog člana u slučaju promjena kursa valuta ili kamatnih stopa,
+c) povezivanje kreditnih izloženosti i odnosnih instrumenata zaštite koje koristi banka,
+ukoliko je primjenjivo.
+(5) Banka nije u obavezi da provodi zahtjeve iz st. (2) i (4) ovog člana za izloženosti sa valutnom
+klauzulom u EUR-u, imajući u vidu postojanje valutnog odbora u Bosni i Hercegovini.
+(6) Ako banka koristi instrumente zaštite od rizika iz stava (4) ovog člana, dužna je u svojim
+internim aktima definirati načine zaštite kreditnih izloženosti.
+(7) Za rizike iz stava (1) ovog člana Banka je dužna provesti testiranje otpornosti na stres. Pri
+tome je dužna uzeti u obzir vezu između kretanja kursa valuta i/ili kamatnih stopa i porasta
+iznosa otplate po kreditnim izloženostima mjerenog odnosom ukupnih plaćanja po kreditnoj
+izloženosti i prihoda, odnosno primanja dužnika.
+Član 16.
+Rizik koncentracije
+(1) Banka je dužna da u politici upravlјanja rizikom koncentracije najmanje obuhvati:
+a) koncentraciju koja se odnosi na jedno lice i grupu povezanih lica,
+b) koncentraciju koja se odnosi na grupu izloženosti koje povezuju isti ili slični izvori
+nastanka rizika, kao što su: isti privredni sektor, geografsko područje, istovrsni poslovi,
+ista vrsta proizvoda, primjena istih tehnika smanjenja kreditnog rizika (isti instrument
+kreditne zaštite ili isti davalac kreditne zaštite),
+c) koncentraciju koja se odnosi na cijeli kreditni portfolio.
+(2) Banka je dužna donijeti odgovarajuće metodologije za praćenje i umanjenje rizika
+koncentracije koje najmanje obuhvataju:
+a) aktivno upravlјanje diverzifikacijom portfolija kreditnih izloženosti,
+b) određivanje limita koncentracije, koje je potrebno redovno razmatrati i vršiti njihovo
+prilagođavanje,
+c) prijenos, odnosno smanjenje kreditnog rizika.
+(3) Najveći dopušteni iznos izloženosti nakon umanjenja za knjigovodstveno evidentirane
+očekivane kreditne gubitke i koji nije osiguran kolateralom (depozit i/ili prihvatlјiv kolateral
+iz člana 28. ove odluke) prema jednom licu ili grupi povezanih lica iznosi 5% priznatog
+kapitala banke. Iznos izloženosti preko 5% priznatog kapitala mora biti osiguran
+prihvatljivim kolateralom čija je vrijednost najmanje za 50% veća od iznosa izloženosti
+preko 5% priznatog kapitala, pri čemu se za utvrđivanje vrijednosti kolaterala ne uzimaju u
+obzir korektivni faktori predviđeni u tabeli 4. iz člana 29. ove odluke.
+11
+3. Raspoređivanje izloženosti u nivoe kreditnog rizika i utvrđivanje očekivanih kreditnih
+gubitaka
+Član 17.
+Raspoređivanje u nivoe kreditnog rizika
+i utvrđivanje očekivanih kreditnih gubitaka
+(1) Banka je dužna da svaku izloženost koju vrednuje po amortizovanom trošku i po fer
+vrijednosti kroz ostalu sveobuhvatnu dobit rasporedi u jednu od slјedećih kategorija:
+a) nivo kreditnog rizika 1 – nizak nivo kreditnog rizika (engl. performing),
+b) nivo kreditnog rizika 2 – povećan nivo kreditnog rizika (engl. underperforming) i
+c) nivo kreditnog rizika 3 – izloženosti kod kojih je nastalo umanjenje vrijednosti, odnosno
+izloženosti u statusu neizmirenja obaveza (engl. non-performing).
+(2) POCI imovina utvrđena u skladu sa članom 21. ove odluke raspoređuje se prilikom početnog
+priznavanja u nivo kreditnog rizika 3, a u skladu sa odredbama člana 22. stav (3) tačka b)
+alineja 1) ove odluke može se naknadno rasporediti u nivo kreditnog rizika 2.
+(3) Banka je dužna da tokom trajanja ugovornog odnosa redovno, a najmanje jednom mjesečno
+(na posljednji dan u mjesecu), izvrši raspoređivanje u odgovarajuće nivoe kreditnog rizika,
+procjeni i knjigovodstveno evidentira očekivane kreditne gubitke u skladu sa odredbama ove
+odluke i Uputstva.
+(4) Modifikovanu izloženost prilikom početnog priznavanja banka ne može rasporediti u nivo
+kreditnog rizika niži od onog u koji je bila raspoređena originalna izloženost prije izvršene
+modifikacije.
+(5) Potraživanja od privrednog društva kojem je banka odobrila izloženost, a kojom se posredno
+ili neposredno, djelimično ili u cijelosti, izmiruje potraživanje prema drugom povezanom
+licu kod iste banke, ne može prilikom početnog priznavanja biti raspoređeno u bolјi nivo
+kreditnog rizika od nivoa kreditnog rizika u koji je bila raspoređena izloženost koja se
+izmiruje.
+(6) Nijedan od kriterija iz ove odluke i Uputstva ne može da spriječi ovlaštena lica Agencije da
+izvrše i banci nalože raspoređivanje izloženosti u viši nivo kreditnog rizika ako to smatraju
+opravdanim i, shodno tome, nalože banci da obračuna i evidentira odgovarajući nivo
+očekivanih kreditnih gubitaka.
+Član 18.
+Nivo kreditnog rizika 1
+(1) Banka u nivo kreditnog rizika 1 raspoređuje slјedeće izloženosti:
+a) izloženosti sa niskim kreditnim rizikom iz stava (2) ovog člana,
+b) izloženosti kod kojih kreditni rizik nije značajno povećan nakon početnog priznavanja,
+te po kojima dužnik ne kasni sa otplatom u materijalno značajnom iznosu duže od 30
+dana,
+c) modifikacije izloženosti iz ovog nivoa kreditnog rizika koje nisu uzrokovane
+finansijskim poteškoćama dužnika, već njegovim tekućim potrebama (npr. smanjenje
+efektivne kamatne stope zbog promjena na tržištu, zamjena kolaterala i sl.), te po kojima
+dužnik ne kasni sa otplatom u materijalno značajnom iznosu duže od 30 dana.
+(2) Izloženostima sa niskim rizikom smatraju se:
+a) izloženosti prema Centralnoj banci Bosne i Hercegovine,
+b) izloženosti prema Vijeću ministara Bosne i Hercegovine, Vladi Federacije Bosne i
+Hercegovine, Vladi Republike Srpske i Vladi Brčko Distrikta Bosne i Hercegovine, i
+c) izloženosti prema centralnim vladama i centralnim bankama izvan Bosne i Hercegovine
+za koje postoji kreditna procjena priznate vanjske institucije za procjenu kreditnog
+12
+rejtinga koja se, u skladu sa članom 69. Odluke o izračunavanju kapitala banke,
+raspoređuje u stepen kreditnog kvaliteta 1 ili 2.
+d) novoodobrene izloženosti koje banka raspoređuje u nivo kreditnog rizika 1 odobrene u
+periodu od 01.04.2020. godine do 01.06.2021. godine koje su u funkciji privrednog rasta i čiji
+rok otplate nije kraći od godinu dana, te ispunjavaju jedan od navedenih ciljeva:
+1) razvoj poduzetništva,
+2) zadržavanje istog ili povećanje ukupnog broja zaposlenika pravnog lica,
+3) realizaciju strateških ili infrastrukturnih projekata u državi,
+4) poticanje inovacija i pokretanje novih poslovnih aktivnosti,
+5) ulaganje u energetsku efikasnost ili obnovljive izvore energije,
+6) podršku proizvodnji, izvoznim kompanijama i razvoju turizma,
+7) na drugi način djeluju na privredni rast i razvoj i smanjenje nezaposlenosti u državi.
+(3) Ukoliko ne postoji kašnjenje u materijalno značajnom iznosu dužem od 60 dana, banka nije
+dužna da za izloženosti iz stava (2) ovog člana razmatra indikatore za utvrđivanje značajnog
+povećanja kreditnog rizika iz člana 19. stav (4) ove odluke.
+(4) Za izloženosti iz stava (2) tačka d) ovog člana banka je dužna da dokumentuje ispunjenje
+ciljeva navedenih u alinejama od 1) do 7).
+(5) Banka može za izloženost iz stava (2) tačka d) ovog člana koristi minimalnu stopu
+očekivanog kreditnog gubitka iz člana 23. stav (1) tačka a) ove odluke, ukoliko je navedenu
+izloženost odobrila po efektivnoj kamatnoj stopi koja nije viša od 2,8% i dok je takva
+izloženost raspoređena u nivo kreditnog rizika 1.
+Član 19.
+Nivo kreditnog rizika 2
+(1) Banka u nivo kreditnog rizika 2 raspoređuje izloženosti kod kojih se rizik nakon početnog
+priznavanja značajno povećao.
+(2) Kašnjenje u otplati obaveza prema banci u materijalno značajnom iznosu duže od 30 dana,
+osim u slučajevima kada banka može dokazati da kašnjenje nije rezultat značajnog povećanja
+kreditnog rizika (kašnjenje zbog tehničke greške), obavezan je kriteriji za raspoređivanje
+izloženosti u nivo kreditnog rizika 2, osim u slučajevima iz člana 18. stav (3) ove odluke.
+(3) Kašnjenje nastalo zbog tehničke greške iz stava (2) ovog člana podrazumijeva slјedeće
+situacije:
+a) da je dužnik izvršio uplatu putem druge banke (ili u pošti) i o tome posjeduje dokaz, ali
+platna transakcija nije realizirana na vrijeme,
+b) da je dužnik u banci izvršio uplatu, koja nije realizirana greškom zaposlenog koji je
+zaprimio uplatu,
+c) da je dužnik u banci izvršio uplatu, ali ista nije na vrijeme rasknjižena na odgovarajuću
+kreditnu partiju.
+(4) Banka je dužna da internim aktima definira ostale indikatore za utvrđivanje značajnog
+povećanja kreditnog rizika iz stava (1) ovoga člana (engl. Significant Increase of Credit Risk
+– SICR), i pri tome uzme u obzir najmanje slјedeće indikatore:
+a) povećanje PD parametra u skladu sa internom metodologijom banke,
+b) pogoršanje internog ili eksternog kreditnog rejtinga dužnika na način definiran internom
+metodologijom banke,
+c) pogoršanje finansijskih pokazatelјa dužnika ili grupe povezanih lica kojoj pripada
+(pokazatelj likvidnosti, značajan gubitak, finansijske obaveze/EBITDA i sl.), pri čemu
+banka internim aktima propisuje intervale pogoršanja tih pokazatelja,
+d) prelazak na listu izloženosti koje je potrebno posebno pratiti od strane banke (watch lista),
+osim klijenata koji su sastavni dio watch liste u skladu sa članom 10. stav (4) ove odluke,
+e) račun dužnika je blokiran.
+(5) Banka ne treba da se ograniči na indikatore iz stava (4) ovog člana i indikatore definirane
+internim aktima i posmatra iste kao listu za provjeru (engl. check list), već prilikom procjene
+kreditnog rizika treba da uzme u obzir i ostale raspoložive informacije, kako bi na što
+oprezniji način identifikovala situacije značajnog povećanja kreditnog rizika.
+(6) U slučaju restrukturiranih izloženosti, banka može u nivo kreditnog rizika 2 rasporediti samo
+restrukturirane izloženosti koje u trenutku odobrenja nisu bile raspoređene u nivo kreditnog
+rizika 3, koje ne ispunjavaju uslov iz člana 20. stav (3) tačka d) ove odluke, kao ni ostale
+uslove za raspoređivanje u nivo kreditnog rizika 3.
+13
+Član 20.
+Nivo kreditnog rizika 3
+izloženosti u statusu neizmirenja obaveza
+(1) Banka u nivo kreditnog rizika 3, tj. u status neizmirenja obaveza raspoređuje izloženosti kada
+je ispunjen jedan ili oba od slјedećih uslova:
+a) dužnik kasni sa otplatom dospjelih obaveza prema banci duže od 90 dana u materijalno
+značajnom iznosu,
+b) banka smatra izvjesnim da dužnik neće u potpunosti izmiriti svoje obaveze prema banci,
+njenom matičnom društvu ili bilo kojem od njenih zavisnih društava pravnog lica ne
+uzimajući u obzir mogućnost naplate iz kolaterala (engl. Unlikeliness to Pay – UTP).
+(2) Restrukturirane izloženosti koje su u trenutku modifikacije bile raspoređene u nivo kreditnog
+rizika 3 zadržavaju status neizmirenja obaveza do ispunjavanja uslova u skladu sa odredbama
+člana 22. ove odluke.
+(3) Za potrebe stava (1) tačka b) ovog člana smatra se izvjesnim da dužnik neće u potpunosti
+izmiriti svoje obaveze prema banci u slijedećim situacijama:
+a) ako postoji objektivni dokaz da je došlo do umanjenja vrijednosti izloženosti,
+b) ako se dužnik suočava sa značajnim finansijskim poteškoćama,
+c) ako je banka prodala drugu izloženost istog dužnika uz značajan ekonomski gubitak,
+d) ako je banka pristala da modifikuje izloženost zbog trenutnih finansijskih poteškoća
+dužnika ili poteškoća koje će uskoro nastati, a što će vjerovatno za posljedicu imati
+umanjenje finansijske obaveze dužnika zbog značajnog otpisa ili odgode plaćanja
+glavnice, kamata ili prema potrebi, naknada,
+e) ako je pokrenut stečajni postupak ili likvidacija dužnika,
+f) ako dužnik nije izvršio svoju obavezu prema banci najkasnije u roku od 60 dana od dana
+kada je izvršen protest po osnovu prethodno izdate garancije.
+(4) Banka se ne treba ograničavati na slučajeve navedene u stavu (3) ovog člana, već treba
+svojim internim aktima precizno definirati i ostale slučajeve za koje je utvrđeno da ukazuju
+na to da je izvjesno da dužnik neće u potpunosti izmiriti svoje obaveze prema banci.
+(5) Za potrebe primjene kriterija iz stava (3) tačka b) ovog člana, banka internim aktima
+propisuje pokazatelјe koji ukazuju na značajne finansijske poteškoće, kao što su:
+a) izvori prihoda dužnika su značajno smanjeni, što može utjecati na njegovu mogućnost
+da izmiruje obaveze prema banci,
+b) pokrenut je postupak naplate iz kolaterala,
+c) banka je pokrenula tužbu protiv dužnika pred nadležnim sudom,
+d) dužnik je izgubio licencu za obavlјanje djelatnosti,
+e) u slučaju izloženosti prema novoosnovanim privrednim društvima, kao i izloženosti po
+osnovu projektnog finansiranja, ako su procijenjeni budući novčani tokovi u bilo kom
+periodu izmirivanja obaveza prema banci neadekvatni, kao i ako se tokom otplate
+potraživanja znatno odstupi od inicijalnog poslovnog plana, odnosno planirane
+realizacije projekta,
+f) značajno smanjenje kapitala dužnika,
+g) značajno pogoršanje ostalih finansijskih pokazatelјa (pokazatelj likvidnosti, značajan
+gubitak, finansijske obaveze/EBITDA i sl.) pri čemu banka internim aktima propisuje
+intervale pogoršanja tih pokazatelja,
+h) dužnik je sudužnik ili jemac po kreditu koji je u statusu neizmirenja obaveza, a rata je
+toliko velika da može značajno utjecati na njegovu platežnu sposobnost,
+i) desili su se slučajevi prevara,
+j) dužnik je prezadužen, 
+14
+k) u slučaju fizičkih lica: ukoliko je privredno društvo ili samostalna poduzetnička radnja
+u vlasništvu dužnika u statusu neizmirenja obaveza, a dužnik garantuje ličnom
+imovinom za obaveze tog privrednog društva ili samostalne poduzetničke radnje,
+l) blokada računa dužnika izvršena je kontinuirano u periodu dužem od 60 dana,
+m) nivo kreditnog kvaliteta u drugoj banci i slično.
+(6) Prilikom razmatranja kriterija iz stava (3) tačka c) ovog člana, banka razmatra da li je prodala
+druge izloženosti istog lica uz značajan ekonomski gubitak, a potrebno je prije svega
+analizirati razloge zbog kojih je izvršena prodaja, te u slučajevima koji nisu povezani sa
+kreditnim rizikom (npr. prodaja zbog potrebe za likvidnim sredstvima, promjene poslovne
+strategije banke ili potrebe usklađivanja sa regulatornim propisima u vezi sa ograničenjima
+izloženosti) ne treba smatrati da je nastupio status neizmirenja obaveza, iako su izloženosti
+prodate uz značajan ekonomski gubitak.
+Međutim, u slučajevima u kojima je do prodaje došlo zbog pogoršanja kreditnog kvaliteta
+izloženosti, a ekonomski gubitak je značajan, banka treba smatrati da je došlo do nastanka
+statusa neizmirenja obaveza za ostale izloženosti banke prema istom dužniku. Pri tome se
+ekonomski gubitak smatra značajnim ukoliko je cijena po kojoj se izloženost prodaje manja
+za više od 5% neto vrijednosti izloženosti (uklјučujući kamate i naknade).
+(7) Prilikom razmatranja kriterija iz stava (3) tačka d) ovog člana, banka razmatra da li je
+modifikacija izloženosti koja nije u trenutku modifikacije bila raspoređena u nivo kreditnog
+rizika 3 imala za rezultat umanjenje finansijske obaveze dužnika zbog značajnog otpisa ili
+odgode plaćanja glavnice, kamata ili naknada, te ukoliko utvrdi da je to umanjenje veće od
+1%, smatra se da je nastupio status neizmirenja obaveza.
+Pri tome se umanjenje finansijske obaveze (Do) računa u skladu sa slјedećom formulom:
+Do =
+NPVo-NPVt
+NPVo
+
+gdje je:
+NPVo – neto sadašnja vrijednost novčanih tokova očekivanih na osnovu ugovora prije
+njegove modifikacije diskontovanih primjenom originalne efektivne kamatne stope,
+NPVt – neto sadašnja vrijednost novčanih tokova očekivanih na osnovu novog
+modifikovanog ugovora diskontovanih primjenom originalne efektivne kamatne stope.
+ Međutim, banka treba da razmotri postoje li druge naznake da je izvjesno kako dužnik neće
+izmiriti obaveze prema banci u potpunosti i u slučaju da je umanjenje finansijske obaveze
+manje od 1%. Pri tome pokazatelјi koji mogu ukazivati da je izvjesno kako dužnik neće
+izmiriti obaveze prema banci u potpunosti uklјučuju slјedeće:
+a) velika jednokratna otplata na kraju perioda predviđenog planom otplate,
+b) plan otplate u kojem se na početku predviđaju znatno niži iznosi plaćanja,
+c) duži grejs period uzimajući u obzir namjenu kredita,
+d) izloženosti prema dužniku su više puta restrukturirane u odnosu na inicijalnu izloženost.
+Član 21.
+POCI imovina
+(1) POCI imovina predstavlja izloženost za koju se u trenutku početnog priznavanja utvrdi da je
+njena vrijednost umanjena za kreditne gubitke zbog postojanja značajnog kreditnog rizika.
+(2) Banka je dužna da svojim internim aktima definira kriterije za utvrđivanje da li se radi o
+POCI imovini iz stava (1) ovog člana, pri čemu je banka dužna da razmotri najmanje slјedeće
+kriterije:
+a) da li se radi o izloženosti koja je raspoređena u nivo kreditnog rizika 3 u skladu sa članom
+20. ove odluke, a kojoj se vrši značajna modifikacija u skladu sa Uputstvom,
+15
+b) da li se radi o finansijskoj imovini kupljenoj uz ekonomski gubitak (diskont) veći od 5%
+neto knjigovodstvene vrijednosti, osim u slučajevima da prodavac prodaje finansijsku
+imovinu u slučajevima koji nisu povezani sa kreditnim rizikom i
+c) da li se radi o kupljenoj finansijskoj imovini ili refinansiranju izloženosti (djelimičnoj ili
+potpunoj) koja je u drugoj banci bila raspoređena u nivo kreditnog rizika 3.
+(3) Ukoliko je ispunjen bilo koji od kriterija iz stava (2) ovog člana, smatra se da se radi o POCI
+imovini.
+(4) Izuzetno, u slučaju spajanja i pripajanja banaka ne primjenjuju se kriteriji iz stava (2) ovog
+člana u svrhu utvrđivanja POCI imovine.
+(5) Izuzetno, u slučaju kupovine portfolija kredita ne primjenjuju se kriteriji iz stava (2) tačka b)
+ovog člana u svrhu utvrđivanja POCI imovine, već se vrši procjena svake pojedinačne partije
+i utvrđuje da li se radi o POCI imovini u skladu sa stavom (2) tačka c) ovog člana.
+(6) Pri utvrđivanju statusa POCI imovine banka je dužna da istu posmatra na nivou pojedinačne
+izloženosti, a ne na nivou klijenta.
+(7) Banka je dužna da u svom informacionom sistemu omogući identifikaciju izloženosti kojima
+je dodijeljen status POCI imovine, a koji se zadržava do potpunog izmirenja obaveza po
+osnovu te izloženosti.
+Član 22.
+Raspoređivanje izloženosti u niže nivoe kreditnog rizika
+(1) Izloženosti raspoređene u nivo kreditnog rizika 2 banka može rasporediti u nivo kreditnog
+rizika 1 samo kada su ispunjeni slјedeći uslovi:
+a) kada su svi razlozi koji su ukazivali na značajno povećanje kreditnog rizika iz člana 19.
+ove odluke prestali da postoje i
+b) kada je dužnik tokom definiranog perioda oporavka kontinuirano dokazivao urednost u
+otplati, i to:
+1) za restrukturirane izloženosti koje su u trenutku restrukturiranja bile raspoređene u
+nivo kreditnog rizika 2 u toku šest mjeseci od datuma restrukturiranja,
+2) za restrukturirane izloženosti koje su u trenutku restrukturiranja bile raspoređene u
+nivo kreditnog rizika 3 u toku 24 mjeseca od datuma raspoređivanja u nivo kreditnog
+rizika 2. U suprotnom, banka je dužna restrukturiranu izloženost ponovo rasporediti
+u nivo kreditnog rizika 3.
+3) za nerestrukturirane izloženosti u toku tri mjeseca od datuma kada su prestali svi
+razlozi koji ukazuju na značajno povećanje kreditnog rizika.
+(2) Banka ne može reklasifikovati izloženosti iz nivoa kreditnog rizika 3 direktno u nivo
+kreditnog rizika 1.
+(3) Banka može reklasifikovati izloženosti raspoređene u nivo kreditnog rizika 3 u nivo
+kreditnog rizika 2 samo kada su ispunjeni slјedeći uslovi:
+a) kada su svi uslovi iz člana 20. ove odluke prestali da budu primjenjivi i
+b) kada je dužnik tokom definiranog perioda oporavka kontinuirano dokazivao urednost u
+otplati i to:
+1) za restrukturirane izloženosti i POCI imovinu u toku 12 mjeseci od datuma
+restrukturiranja, odnosno prilikom početnog priznavanja POCI imovine,
+2) za nerestrukturirane izloženosti u toku šest mjeseci od datuma kada je prestalo
+ispunjavanje uslova iz člana 20. ove odluke.
+(4) Za potrebe primjene stava (3) tačka b) alineja 1) ovog člana smatra se da je ispunjen uslov
+za reklasifikaciju iz nivoa kreditnog rizika 3 u nivo kreditnog rizika 2, ukoliko su ispunjeni i
+slјedeći dodatni uslovi:
+16
+a) dužnik je tokom perioda oporavka izvršio otplatu glavnice (putem redovnih plaćanja) u
+iznosu koji je jednak većem od slјedeća dva iznosa: iznosu prethodno dospjelih
+neizmirenih obaveza (ako su iste postojale) ili iznosu koji je otpisan,
+b) postoji urednost u otplati obaveza prema banci po osnovu ostalih izloženosti banke prema
+tom dužniku,
+c) banka nema bilo koje druge dodatne naznake da dužnik neće u potpunosti izmiriti
+obaveze prema banci.
+(5) Banka je dužna definirati jasne kriterije i politike o tome kada se može izvršiti reklasifikacija
+izloženosti iz nivoa kreditnog rizika 3 u nivo kreditnog rizika 2, a pri tome treba obuhvatiti
+situacije kada se može smatrati da je pobolјšanje finansijskog stanja dužnika dovolјno da
+omogućuje potpunu i pravovremenu otplatu kreditnih obaveza. Banka treba pratiti efikasnost
+usvojenih politika, a naročito analizirati promjene statusa dužnika, utjecaj usvojenih politika
+na stope oporavka izloženosti u statusu neizmirenja obaveza i utjecaj usvojenih politika na
+pojavu višestrukih statusa neizmirenja obaveza. Pri tome se očekuje da banka ima mali broj
+slučajeva kod kojih će nastupiti status neizmirenja obaveza ponovo nakon reklasifikacije.
+Ukoliko to nije slučaj, banka treba preispitati svoje politike reklasifikacije izloženosti i
+utvrditi duže rokove oporavka u odnosu na minimalne propisane rokove u stavu (3) ovog
+člana.
+(6) Za potrebe primjene st. (1), (3) i (4) ovog člana smatra se da postoji urednost u otplati ukoliko
+dužnik ne kasni sa otplatom 30 i više dana u materijalno značajnom iznosu u toku definiranog
+perioda oporavka.
+(7) U slučaju da je utvrđen grace period / moratoriji kod restrukturiranih izloženosti, taj period
+ne ulazi u posmatrani period oporavka, tj. period oporavka počinje od kraja grace perioda /
+moratorija.
+3.1. Minimalne stope očekivanih kreditnih gubitaka
+Član 23.
+Minimalne stope očekivanih
+kreditnih gubitaka za nivo kreditnog rizika 1
+(1) Banka je dužna da za izloženosti raspoređene u nivo kreditnog rizika 1 utvrdi i
+knjigovodstveno evidentira očekivane kreditne gubitke najmanje u iznosima kako slijedi:
+a) za izloženosti sa niskim rizikom iz člana 18. stav (2) ove odluke - 0,1% izloženosti,
+b) za izloženosti prema centralnim vladama i centralnim bankama izvan Bosne i
+Hercegovine za koje postoji kreditna procjena priznate vanjske institucije za procjenu
+kreditnog rejtinga koja se u skladu sa članom 69. Odluke o izračunavanju kapitala banke
+raspoređuje u stepen kreditnog kvaliteta 3 i 4 - 0,1% izloženosti,
+c) za izloženosti prema bankama i drugim subjektima finansijskog sektora za koje postoji
+kreditna procjena priznate vanjske institucije za procjenu kreditnog rejtinga koja se u
+skladu sa članom 69. Odluke o izračunavanju kapitala banke raspoređuje u stepen
+kreditnog kvaliteta 1, 2 ili 3 - 0,1% izloženosti,
+d) za ostale izloženosti - 0,5% izloženosti.
+(2) Izuzetno od stava (1) tačka d) ovog člana, ukoliko banka nema adekvatnu vremensku seriju,
+količinu i/ili kvalitet relevantnih historijskih podataka, te nije u mogućnosti da utvrdi
+vrijednost PD parametra korištenjem svog modela na adekvatan i dokumentovan način,
+banka ne može utvrditi očekivani kreditni gubitak za ostale izloženosti raspoređene u nivo
+kreditnog rizika 1 u iznosu manjem od 1% izloženosti.
+17
+(3) Izuzetno od stava (1) tačka d) ovog člana očekivani kreditni gubitak za izloženosti u obliku
+gotovine u blagajni i trezoru banke iznosi 0% ukoliko su ispunjeni zahtjevi u vezi sa zaštitom
+imovine propisani podzakonskim propisom kojim se reguliše sistem internih kontrola u
+banci.
+(4) Ako banka u skladu sa svojom internom metodologijom utvrdi iznos očekivanih kreditnih
+gubitaka veći od onih koji proizlaze iz odredaba ovog člana, dužna je primijeniti tako utvrđen
+veći iznos.
+Član 24.
+Minimalne stope očekivanih
+kreditnih gubitaka za nivo kreditnog rizika 2
+(1) Banka je dužna da za izloženosti raspoređene u nivo kreditnog rizika 2 utvrdi i
+knjigovodstveno evidentira očekivane kreditne gubitke u iznosu većem od dva navedena:
+a) 5% izloženosti,
+b) iznosa utvrđenog u skladu sa internom metodologijom banke.
+(2) Izuzetno od stava (1) tačka a) ovog člana, ukoliko banka nema adekvatnu vremensku seriju,
+količinu i/ili kvalitet relevantnih historijskih podataka, te nije u mogućnosti da utvrdi
+vrijednost PD parametra korištenjem svog modela na adekvatan i dokumentovan način,
+banka ne može utvrditi očekivani kreditni gubitak za izloženosti raspoređene u nivo
+kreditnog rizika 2 u iznosu manjem od 8% izloženosti.
+Član 25.
+Minimalne stope očekivanih
+kreditnih gubitaka za nivo kreditnog rizika 3
+(1) Banka je dužna da za izloženosti raspoređene u nivo kreditnog rizika 3 utvrdi i
+knjigovodstveno evidentira očekivane kreditne gubitke najmanje u iznosima definiranim u
+Tabeli 1 ili Tabeli 2 iz ovog člana.
+Tabela 1. Minimalne stope očekivanih kreditnih gubitaka za izloženosti osigurane prihvatlјivim
+kolateralom:
+R. br. Dani kašnjenja
+Minimalni očekivani
+kreditni gubitak
+1. do 180 dana 15%
+2. od 181 do 270 dana 25%
+3. od 271 do 365 dana 40%
+4. od 366 do 730 dana 60%
+5. od 731 do 1460 dana 80%
+6. preko 1460 dana 100%
+18
+Tabela 2. Minimalne stope očekivanih kreditnih gubitaka za izloženosti koje nisu osigurane
+prihvatlјivim kolateralom:
+R. br. Dani kašnjenja
+Minimalni očekivani
+kreditni gubitak
+1. do 180 dana 15%
+2. od 181 do 270 dana 45%
+3. od 271 do 365 dana 75%
+4. od 366 do 456 dana 85%
+5. preko 456 dana 100%
+(2) Za potrebe primjene stava (1) ovog člana banka utvrđivanje minimalnih očekivanih kreditnih
+gubitaka vrši u skladu sa dijagramom u nastavku:
+Izloženost koja nije osigurana prihvatljivim
+kolateralom
+Očekivani gubici
+u skladu sa Tabelom 2
+Izloženost koja je ovog člana
+djelimično osigurana
+prihvatljivim
+kolateralom
+Neosigurani dio
+Osigurani dio Očekivani gubici
+u skladu sa Tabelom 1
+ovog člana Izloženost koja je u cijelosti osigurana
+prihvatljivim kolateralom
+(3) Izuzetno od stava (1) ovog člana, ukoliko je banka poduzela odgovarajuće pravne radnje i
+može dokumentovati izvjesnost naplate iz prihvatljivog kolaterala u naredne tri godine,
+povećanje nivoa očekivanih kreditnih gubitaka nije dužna vršiti iznad 80% izloženosti. Pri
+tome procjena budućih novčanih tokova iz prihvatljivog kolaterala svedenih na sadašnju
+vrijednost mora biti veća od 20% tog potraživanja.
+U slučaju da banka ne naplati potraživanja u navedenom periodu od tri godine, dužna je
+knjigovodstveno evidentirati očekivane kreditne gubitke u iznosu od 100% izloženosti.
+(4) U slučaju restrukturiranih izloženosti iz člana 22. stav (3) tačka b) alineja 1) ove odluke,
+banka će svih 12 mjeseci perioda oporavka zadržati očekivane kreditne gubitke na nivou
+pokrivenosti koji je bio formiran na datum odobrenja restrukture, a koji ne može biti niži od
+15% izloženosti.
+(5) Banka je dužna da za treću i svaku narednu restrukturu ranije restrukturirane izloženosti koja
+je u trenutku restrukture bila raspoređena u nivo kreditnog rizika 3 ili POCI imovine, utvrdi
+i knjigovodstveno evidentira očekivane kreditne gubitke u iznosu od 100% izloženosti, osim
+u slučajevima kada su ispunjeni uslovi iz stava (3) ovog člana.
+(6) Izuzetno od stava (1) ovog člana, banka je dužna da za izloženosti koje se odnose na slučajeve
+kada dužnik nije izvršio svoju obavezu prema banci najkasnije u roku od 60 dana od dana
+kada je izvršen protest po osnovu prethodno izdate garancije, utvrdi i knjigovodstveno
+evidentira očekivani kreditni gubitak u iznosu od 100%, osim u slučajevima kada su
+ispunjeni uslovi iz stava (3) ovog člana. 
+19
+(7) Ako banka u skladu sa svojom internom metodologijom utvrdi iznos očekivanih kreditnih
+gubitaka veći od onih koji proizlaze iz odredaba ovog člana, dužna je primijeniti tako utvrđen
+veći iznos.
+(8) Za izloženosti definirane članom 2. stav (1) tačkom b) ove odluke smatra se da postoji
+neizvjesnost naplate kamatnih prihoda, te se odgađa priznavanje tih prihoda u računu dobiti
+i gubitka do njihove naplate. Ta potraživanja po osnovu kamata banka evidenciono vodi do
+njihove naplate.
+Član 26.
+Minimalne stope očekivanih kreditnih gubitaka za potraživanja od kupaca,
+potraživanja po osnovu faktoringa i finansijskog lizinga i ostala potraživanja
+(1) Banka je dužna da stope očekivanih kreditnih gubitaka za potraživanja od kupaca,
+potraživanja po osnovu faktoringa i finansijskog lizinga, te ostalih potraživanja utvrdi
+najmanje u iznosima kako je navedeno u Tabeli 3 iz ovog člana.
+Tabela 3. Minimalne stope očekivanih kreditnih gubitaka
+R. br. Dani kašnjenja
+Minimalni očekivani
+kreditni gubitak
+1. nema kašnjenja u materijalno
+značajnom iznosu 0,5%
+2. do 30 dana 2%
+3. od 31 do 60 dana 5%
+4. od 61 do 90 dana 10%
+5. od 91 do 120 dana 15%
+6. od 121 do 180 dana 50%
+7. od 181 do 365 dana 75%
+8. preko 365 dana 100%
+(2) Prilikom utvrđivanja broja dana kašnjenja za potraživanja iz stava (1) ovog člana banka
+uzima u obzir kašnjenja u otplati obaveza prema banci u materijalno značajnom iznosu.
+(3) Ako banka u skladu sa svojom internom metodologijom utvrdi iznos očekivanih kreditnih
+gubitaka veći od onih koji proizlaze iz odredaba ovog člana, dužna je primijeniti tako utvrđen
+veći iznos.
+Član 27.
+Utvrđivanje očekivanih kreditnih gubitaka
+prilikom prelaska u više nivoe kreditnog rizika
+Za izloženosti koje prelaze u viši nivo kreditnog rizika minimalna stopa očekivanih kreditnih
+gubitaka veća je od slјedeće dvije:
+a) ranije utvrđenog očekivanog kreditnog gubitka koji je za njih evidentiran dok su
+izloženosti bile raspoređene u niži nivo kreditnog rizika,
+b) propisanog minimuma očekivanih kreditnih gubitaka za viši nivo kreditnog rizika u koji
+je izloženost raspoređena na izvještajni datum.
+20
+4. Prihvatlјiv kolateral i upravlјanje kolateralom
+Član 28.
+Prihvatlјiv kolateral
+Prihvatlјivim kolateralom za potrebe ove odluke i utvrđivanja očekivanih kreditnih gubitaka
+smatraju se samo:
+a) nekretnine (uklјučujući zemlјište) i pokretna imovina navedena u Tabeli 4 iz člana 29.
+ove odluke, pod uslovom da ispunjava sve uslove iz čl. 29. i 30. ove odluke,
+b) ostali prihvatljivi kolaterali iz člana 31. ove odluke.
+Član 29.
+Nekretnine i pokretna imovina
+(1) Vrste prihvatlјivog kolaterala u obliku nekretnina i pokretne imovine navedene su u Tabeli
+4 iz ovog člana.
+(2) Nekretnina se može smatrati prihvatlјivim kolateralom samo ako su ispunjeni slјedeći uslovi:
+a) banka raspolaže cjelokupnom potrebnom dokumentacijom iz koje je vidljivo da je ta
+nekretnina efikasan i primjeren sekundarni izvor naplate, tj. ako postoje dokazi da je ta
+imovina utrživa,
+b) izvršen je upis hipoteke prvog reda u zemljišnim knjigama i drugim registrima u korist
+banke ili postoji pari passu status prvog reda sa drugim hipotekarnim povjeriocima.
+Kolateral se smatra prihvatljivim u slučaju da je ista banka upisana kao hipotekarni
+povjerilac prvog i višeg reda. Također, kolateral se smatra prihvatljivim u slučaju da je
+moguće dokumentovati da su obaveze hipotekarnog povjerioca prvog reda uredno
+izmirene, ali da nije završen postupak formalno-pravnog brisanja tereta nad hipotekom.
+c) banka ima uspostavlјene efikasne postupke za provjeru pravne valјanosti hipoteke nad
+predmetnom nekretninom,
+d) banka je osigurala procjenu tržišne vrijednosti nekretnine u skladu sa odredbama člana
+30. ove odluke.
+(3) Pokretna imovina može se smatrati prihvatlјivim kolateralom samo ako su ispunjeni slјedeći
+uslovi:
+a) banka raspolaže cjelokupnom potrebnom dokumentacijom iz koje je vidlјivo da je ta
+pokretna imovina efikasan i primjeren sekundarni izvor naplate, tj. ako postoje dokazi da
+je ta imovina utrživa,
+b) izvršen je upis zaloga u registar založnih prava nad pokretnom imovinom kod institucije
+nadležne za vođenje tog registra,
+c) banka ima uspostavlјene efikasne postupke za provjeru pravne valјanosti zaloga nad
+predmetnom pokretnom imovinom,
+d) banka ima mogućnost da na zahtjev izvrši monitoring kolaterala,
+e) dostupna je tržišna cijena pokretne imovine,
+f) banka je osigurala procjenu tržišne vrijednosti pokretne imovine u skladu sa odredbama
+člana 30. ove odluke.
+(4) Prilikom procjene budućih novčanih tokova po osnovu naplate od nekretnina i pokretne
+imovine banka primjenjuje odgovarajuće korektivne faktore i odgovarajući interno
+procijenjeni rok naplate. Korektivni faktori i rok naplate treba da uvažavaju praksu banke i
+dosadašnje iskustvo kod naplate, uslove u privrednom i pravnom okruženju u kojem banka
+posluje, te odgovarajuće karakteristike kolaterala, pa je potrebno uvažiti činjenicu da različite
+vrste kolaterala odražavaju različitu vrstu rizika (npr. utvrditi različite korektivne faktore i
+rokove naplate uzimajući u obzir lokaciju kolaterala kada je u pitanju nekretnina ili
+21
+specifičnost namjene građevinsko-proizvodnih mašina kada je u pitanju pokretna imovina i
+sl.).
+Pri tome banka ne može koristiti korektivne faktore koji su manji od minimalnih faktora
+utvrđenih u Tabeli 4 iz ovog člana, a primjenjuju se na posljednju ažuriranu procijenjenu
+vrijednost kolaterala.
+Tabela 4. Vrste prihvatlјivog kolaterala u obliku nekretnina i pokretne imovine i minimalni
+korektivni faktori za te kolaterale
+R.Br. Vrsta prihvatlјivog kolaterala Korektivni
+faktor (%)
+1. Stambene nekretnine - stan 20
+2. Stambene nekretnine - kuća 30
+3. Stambene nekretnine - ostale nekretnine koje se ne koriste u
+stambene svrhe (vikendice, apartmani i sl.)
+40
+4. Poslovne nekretnine - poslovni prostor 40
+5.
+Poslovne nekretnine - skladišno-industrijski objekti (fabrike,
+skladišta, polјoprivredni objekti i sl.)
+50
+6. Poslovne nekretnine - uslužni objekti (hotel i sl.) 40
+7. Građevinsko zemlјište 40
+8. Polјoprivredno zemlјište 50
+9.
+Pokretna imovina - građevinsko-proizvodne mašine koje se
+koriste za specifičnu namjenu 90
+10.
+Pokretna imovina - građevinsko-proizvodne mašine koje mogu
+imati širu namjenu 70
+11. Pokretna imovina - putnička vozila 60
+12. Pokretna imovina - teretna vozila 70
+(5) Banka najmanje jednom godišnje vrši provjeru adekvatnosti pretpostavki o inicijalno
+utvrđenom roku naplate, te iste koriguje ako je potrebno.
+(6) Ukoliko banka ne raspolaže polisom osiguranja validnom u svakom trenutku trajanja
+ugovornog odnosa i koja je vinkulirana u korist banke, korektivni faktori iz Tabele 4
+uvećavaju se za 10 procentnih poena.
+Član 30.
+Procjena tržišne vrijednosti nekretnina i pokretne imovine
+(1) Banka je dužna usvojiti politike i procedure za procjenu tržišne vrijednosti nekretnina i
+pokretne imovine koja služi kao kolateral, dužna ih je razmatrati najmanje jednom godišnje,
+te po potrebi vršiti njihovo prilagođavanje.
+(2) Banka je dužna internim aktima definirati uslove i kriterije koje mora ispuniti nezavisni
+procjenitelј da bi mogao vršiti procjenu tržišne vrijednosti nekretnina i pokretne imovine, te
+utvrditi listu nezavisnih procjenitelјa čije procjene koristi. Listu nezavisnih procjenitelјa
+22
+banka kontinuirano ažurira nakon provedenih provjera kvaliteta procjena tržišnih vrijednosti
+nekretnina i pokretne imovine izvršenih od strane tih procjenitelјa.
+(3) S cilјem procjene adekvatnosti uspostavlјenih politika i procedura za procjenu tržišne
+vrijednosti nekretnina i pokretne imovine, banka je dužna uspostaviti adekvatne i efikasne
+procedure za provjeru kvaliteta procjena tržišnih vrijednosti nekretnina i pokretne imovine
+izvršenih od strane nezavisnih procjenitelјa.
+(4) Za vrijeme trajanja ugovornog odnosa banka je dužna kontinuirano pratiti tržišnu vrijednost
+nekretnina koje služe kao kolateral za njene izloženosti (kroz redovni monitoring kolaterala
+u skladu sa internim aktima banke), i to za poslovne nekretnine najmanje jednom godišnje,
+a za stambene nekretnine jednom u tri godine.
+Banka je dužna pratiti vrijednost nekretnina i češće ako su tržišni uslovi podložni značajnijim
+promjenama. Ako banka na osnovu praćenja utvrdi da bi moglo doći do značajnog smanjenja
+tržišne vrijednosti nekretnina u odnosu na uobičajene tržišne cijene, dužna je od nezavisnog
+procjenitelјa odmah zatražiti provođenje ponovne procjene njihove tržišne vrijednosti.
+Za izloženosti koje iznose više od 5% priznatog kapitala banke ili jednog miliona KM (u
+zavisnosti od toga šta je niže) banka je dužna osigurati da nezavisni procjenitelј provodi
+naknadnu ponovnu procjenu tržišne vrijednosti nekretnine najmanje svake tri godine.
+(5) Banka je dužna internim aktima definirati minimalni sadržaj izvještaja o procjeni tržišne
+vrijednosti nekretnina, dokumentovanje korištenih izvora podataka i pretpostavki, te način
+procjene tržišne vrijednosti nekretnina i utvrditi kriterije za primjenu različitih metoda
+procjene (tržišna, prihodovna i troškovna), uvažavajući vrstu nekretnine koja se procjenjuje,
+pri čemu bi troškovna metoda bila prihvatlјiva u izuzetnim slučajevima.
+(6) Za vrijeme trajanja ugovornog odnosa banka je dužna kontinuirano pratiti tržišnu vrijednost
+pokretne imovine koja služi kao kolateral za njene izloženosti.
+(7) Banka je dužna osigurati da nezavisni procjenitelј provede procjenu tržišne vrijednosti
+pokretne imovine svake treće godine ukoliko je njena vrijednost prilikom odobravanja
+izloženosti bila veća od 500.000 KM.
+(8) Dokumentacija u vezi sa nekretninama i pokretnom imovinom koja služi kao kolateral i koju
+je banka dužna imati u kreditnom dosjeu propisuje se odlukom kojom se reguliše
+dokumentovanost kreditnih aktivnosti banke.
+(9) Agencija može posebnim aktom propisati detaljnije zahtjeve u vezi sa procjenom tržišne
+vrijednosti nekretnina i pokretne imovine.
+Član 31.
+Ostali prihvatlјivi kolaterali
+(1) Ostalim prihvatlјivim kolateralom smatraju se:
+a) dužnički vrijednosni papiri izdati od strane Vijeća ministara Bosne i Hercegovine, Vlade
+Federacije Bosne i Hercegovine, Vlade Republike Srpske i Vlade Brčko Distrikta Bosne
+i Hercegovine,
+b) dužnički vrijednosni papiri izdati od strane centralnih vlada ili centralnih banaka koje
+imaju kreditnu procjenu priznate vanjske institucije za procjenu kreditnog rejtinga koja
+se u skladu sa članom 69. Odluke o izračunavanju kapitala banke raspoređuje u stepen
+kreditnog kvaliteta 4 ili bolјi,
+c) dužnički vrijednosni papiri izdati od strane multilateralnih razvojnih banaka iz člana 53.
+stav (2) Odluke o izračunavanju kapitala banke,
+d) dužnički vrijednosni papiri koji su izdati od strane međunarodnih organizacija iz člana
+54. Odluke o izračunavanju kapitala banke,
+e) dužnički vrijednosni papiri izdati od strane banaka, investicionih društava, regionalnih
+vlada i lokalnih vlasti, subjekata javnog sektora i multilateralnih razvojnih banaka (koje
+nisu obuhvaćene tačkom c) ovog stava) i ostalih subjekata koji imaju kreditnu procjenu
+23
+priznate vanjske institucije za procjenu kreditnog rejtinga koja se u skladu sa članom 69.
+Odluke o izračunavanju kapitala banke raspoređuje u stepen kreditnog kvaliteta 3 ili
+bolјi,
+f) dužnički vrijednosni papiri izdati od strane banaka i regionalnih vlada i lokalnih vlasti
+koji nemaju procjenu priznate vanjske institucije za procjenu kreditnog rejtinga, ukoliko
+emitenti tih vrijednosnih papira kotiraju na priznatoj berzi iz Priloga III Odluke o
+izračunavanju kapitala banke,
+g) zalog na monetarnom zlatu,
+h) dionice ili konvertibilne obveznice uklјučene u glavni berzanski indeks,
+i) garancije i kontragarancije plative na prvi poziv izdate od strane subjekata navedenih u
+tački a) - f) ovog stava.
+(2) Kolaterali iz stava (1) ovog člana moraju ispuniti slјedeće dodatne uslove:
+a) prilikom procjene budućih novčanih tokova po osnovu naplate iz dužničkih vrijednosnih
+papira banka je dužna primijeniti odgovarajuće korektivne faktore u odnosu na tržišnu
+cijenu uzimajući u obzir količinu i učestalost trgovanja tim dužničkim vrijednosnim
+papirima, dosadašnje iskustvo u naplati, uslove u ekonomskom i pravnom okruženju
+emitenta, te odgovarajuća obilјežja tih dužničkih vrijednosnih papira. Banka je dužna u
+svojim internim politikama i procedurama definirati odgovarajuće korektivne faktore, te
+iste doslјedno primjenjivati. Pri tome banka ne može utvrditi korektivni faktor manji od
+10% za dužničke vrijednosne papire iz stava (1) tačke a) - d) ovog člana koje koristi kao
+kolateral, niti može utvrditi korektivni faktor manji od 20% za ostale vrijednosne papire.
+b) ukoliko postoji neusklađenost između dospijeća izloženosti i dospijeća ostalog
+prihvatlјivog kolaterala, ostali prihvatlјivi kolateral priznaje se prilikom utvrđivanja
+očekivanih kreditnih gubitaka samo u slučaju ako je njegovo dospijeće jednako ili duže
+od dospijeća izloženosti.
+c) garancije i kontragarancije treba da ispunjavaju uslove i zahtjeve iz čl. 84. - 86. Odluke o
+izračunavanju kapitala banke.
+5. Računovodstveni tretman materijalne imovine stečene u postupku naplate
+potraživanja
+Član 32.
+Računovodstveni tretman
+(1) Računovodstveni tretman materijalne imovine koju je banka primila kao potpunu ili
+djelimičnu otplatu potraživanja (u dalјem tekstu: stečena materijalna imovina) zavisi od
+namjere nadležnih organa banke o dalјem postupanju s tom imovinom.
+(2) Banka stečenu materijalnu imovinu priznaje u svojim finansijskim izvještajima kada
+nadležni sud donese Rješenje o dosudi ili drugi ekvivalentan dokument, te isto postane
+pravosnažno ili na datum kada stekne imovinu vansudskom nagodbom.
+(3) U slučaju da banka stečenu materijalnu imovinu nema namjeru koristiti u vlastite svrhe, istu
+je prilikom početnog priznavanja dužna evidentirati po nižoj od slјedećih vrijednosti:
+a) Iznosa neto knjigovodstvene vrijednosti potraživanja banke. U slučaju da je visina
+knjigovodstveno evidentiranih očekivanih kreditnih gubitaka jednaka visini potraživanja,
+banka će stečenu materijalnu imovinu evidentirati po tehničkoj vrijednosti u iznosu od 1
+KM.
+b) Procijenjenoj fer vrijednosti od strane nezavisnog procjenitelja umanjenoj za očekivane
+troškove prodaje. Troškovi prodaje jesu troškovi koji su direktno povezani sa prodajom
+kao, npr., troškovi notara, porez, sudske takse i sl.
+24
+(4) Banka ni u jednom slučaju ne smije iskazivati prihod ni po kakvom osnovu prilikom sticanja
+materijalne imovine koju je primila kao potpunu ili djelimičnu otplatu dugova sve do njene
+prodaje.
+(5) U slučaju da banka stečenu materijalnu imovinu nema namjeru koristiti u vlastite svrhe,
+dužna je da, u skladu sa svojim internim aktima, donese odluku i odgovarajući plan o prodaji
+i provodi aktivnu politiku prodaje te imovine.
+(6) Uprava banke dužna je, minimalno kvartalno, izvijestiti nadzorni odbor o obimu i vrsti
+stečene materijalne imovine, kao i poduzetim aktivnostima na prodaji, odnosno ispunjenju
+plana prodaje iz prethodnog stava ovog člana.
+(7) Banka je dužna vršiti naknadnu procjenu stečene materijalne imovine od strane nezavisnog
+procjenitelja u skladu sa internim aktima banke, te o istoj voditi odgovarajuću
+vanbilansnu/pomoćnu evidenciju, osim u slučajevima kada njena evidentirana vrijednost
+iznosi 1 KM.
+(8) U slučaju da banka ne proda stečenu materijalnu imovinu u roku od tri godine od datuma
+početnog priznavanja iste u knjigama banke, dužna je njenu vrijednost svesti na 1 KM.
+(9) U slučaju da banka ne proda stečenu materijalnu imovinu koja je evidentirana u knjigama
+banke prije 01.01.2019. godine, dužna je vrijednost iste svesti na 1 KM u roku od dvije
+godine od dana početka primjene ove odluke. Za materijalnu imovinu stečenu nakon
+01.01.2019. godine primjenjuje se stav (8) ovog člana.
+6. Izvještavanje Agencije i prijelazne i završne odredbe
+Član 33.
+Izvještavanje Agencije
+(1) Banka je dužna izvještavati Agenciju o izloženostima raspoređenim u nivoe kreditnog rizika
+u skladu sa odredbama ove odluke.
+(2) Izvještaje iz stava (1) ovog člana banka je dužna dostavlјati u obliku, na način i u rokovima
+propisanim Odlukom o izvještajima koje banka dostavlja Agenciji za bankarstvo Federacije
+Bosne i Hercegovine.
+Član 34.
+Prijelazne i završne odredbe
+(1) Direktor Agencije će u roku od 60 (šezdeset) dana od dana stupanja na snagu ove odluke
+donijeti Uputstvo za klasifikaciju i vrednovanje finansijske aktive iz člana 1. stava (5) ove
+odluke.
+(2) Banka je dužna obračunati efekte primjene ove odluke sa stanjem na dan 31.12.2019. godine,
+odnosno početnim stanjem na dan 01.01.2020. godine, evidentirati ih na računima kapitala i
+iskazati u redovnom osnovnom kapitalu. Efekti prve primjene predstavljaju razliku između
+očekivanih kreditnih gubitaka utvrđenih u skladu sa odredbama ove odluke i onih koje je
+banka utvrdila i knjigovodstveno evidentirala u skladu sa svojom internom metodologijom,
+a u slučaju kada su tako utvrđeni očekivani kreditni gubici manji. Banka je dužna da efekte
+izračuna za svaku pojedinačnu izloženost.
+(3) Član 25. stav (5) primjenjuje se za izloženosti koje su restrukturirane nakon 01.01.2018.
+godine.
+(4) Danom početka primjene ove odluke prestaje da važi:
+a) Odluka o minimalnim standardima za upravlјanje kreditnim rizikom i klasifikaciju aktive
+banaka („Službene novine Federacije BiH“, br. 85/11-prečišćeni tekst, 33/12-ispravka i
+15/13),
+25
+b) Odluka o izvještavanju o nesolidnim komitentima koji se smatraju specijalnim kreditnim
+rizikom banaka („Službene novine Federacije BiH“, broj: 3/03).
+(5) Do datuma početka primjene ove odluke banka je u obavezi Agenciji dostavljati "Izvještaj o
+klasifikaciji aktive i listu nekvalitetne aktive" - Obrazac broj 2 (tabele A1 i A2) u skladu sa
+članom 25. Odluke o minimalnim standardima za upravljanje kreditnim rizikom i
+klasifikaciju aktive banaka.
+Član 35.
+Stupanje na snagu
+(1) Ova odluka stupa na snagu osmog dana od dana objavljivanja u "Službenim novinama
+Federacije BiH", a primjenjuje se od 01.01.2020. godine.
+Broj: U.O.-34-3/19 PREDSJEDNICA
+Sarajevo, 20.06.2019. godine UPRAVNOG ODBORA
+ mr. sc. Ljerka Marić, dipl.ecc., s.r.
