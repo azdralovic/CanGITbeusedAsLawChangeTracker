@@ -14,7 +14,7 @@ Predmet odluke
 (1) Ovom odlukom propisuju se:
 a) pravila za upravlјanje kreditnim rizikom,
 b) način raspoređivanja izloženosti u nivoe kreditnog rizika i utvrđivanje očekivanih
-kreditnih gubitaka,
+kreditnih gubitaka, TESTTESTTEST
 c) prihvatljiv kolateral za potrebe utvrđivanja očekivanih kreditnih gubitaka,
 d) prihvatljiv kolateral za potrebe ograničenja najveće dopuštene izloženosti u odnosu na
 priznati kapital,
